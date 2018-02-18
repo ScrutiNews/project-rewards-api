@@ -3,8 +3,10 @@ API for the 'Project Rewards' collaboration tool. The APIs defined herein are pa
 
 ## Purpose
 Description:
-* info
-* info
+* Provide back-end logic and expose callable APIs 
+* Interact with Ethereum smart contracts to initiate transactions
+* User and Identity Management (although could consider a separate module for this)
+* Expose API methods for transaction and accounts functionality
 
 ## Co-dependencies:
 https://github.com/ScrutiNews/project-rewards-ui
